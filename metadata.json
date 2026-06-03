@@ -1,0 +1,6 @@
+{
+  "name": "Screen Mirroring & Control",
+  "description": "Low-latency real-time screen casting over Wi-Fi and Bluetooth with interactive touch-based remote control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

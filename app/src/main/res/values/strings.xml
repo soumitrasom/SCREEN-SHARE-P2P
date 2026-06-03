@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Screen Mirroring &amp; Control</string>
+    <string name="accessibility_description">Enables real-time remote touch input mapping and gesture simulation injected from connected mobile mirroring devices.</string>
+</resources>
